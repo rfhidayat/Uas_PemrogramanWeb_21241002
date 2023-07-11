@@ -1,0 +1,1164 @@
+.mac-book-air-19,
+.mac-book-air-19 * {
+  box-sizing: border-box;
+}
+.mac-book-air-19 {
+  background: #ffffff;
+  width: 1280px;
+  height: 3512px;
+  position: relative;
+  overflow: hidden;
+}
+.mac-book-air-10 {
+  background: #ffffff;
+  padding: 8px;
+  width: 1280px;
+  height: 832px;
+  position: absolute;
+  left: calc(50% - 640px);
+  top: 0px;
+  overflow: hidden;
+}
+.rectangle-2064 {
+  background: #f9b530;
+  width: 157px;
+  height: 9px;
+  position: absolute;
+  left: 63px;
+  top: 408px;
+}
+.vector-16 {
+  position: absolute;
+  left: 620px;
+  top: 368px;
+  overflow: visible;
+}
+.download-resume {
+  color: #ffffff;
+  text-align: center;
+  font: 400 12px "Inter", sans-serif;
+  position: absolute;
+  left: 155px;
+  top: 490px;
+  width: 110px;
+  height: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ornament-22 {
+  position: absolute;
+  left: 1311.82px;
+  top: 630.32px;
+  transform: translate(-162.3px, -7.57px);
+  overflow: visible;
+}
+.frame-2 {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 140px;
+  top: 680px;
+}
+.instagram {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.linkedin {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.github {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.tumblr {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.element-11 {
+  width: 31.84px;
+  height: 5.16px;
+  position: absolute;
+  left: 877.34px;
+  top: 151.8px;
+  transform-origin: 0 0;
+  transform: rotate(-60deg) scale(-1, 1);
+  overflow: hidden;
+}
+.group {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.hello-i-m {
+  color: #8873ef;
+  text-align: center;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 68px;
+  top: 218px;
+  width: 89px;
+  height: 29px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rahmat-fathan-hidayat {
+  color: #000000;
+  text-align: left;
+  font: 600 55px "Inter", sans-serif;
+  position: absolute;
+  left: 66px;
+  top: 244px;
+  width: 424px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.web-developer-ux-designer {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Inter", sans-serif;
+  position: absolute;
+  left: 68px;
+  top: 395px;
+  width: 303px;
+  height: 29px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.saya-mengembangkan-situs-web-dengan-desain-menarik-dan-fungsionalitas-yang-optimal-saya-fokus-pada-pengalaman-pengguna-yang-mudah-digunakan-dan-intuitif {
+  color: #919191;
+  text-align: left;
+  font: 400 12px "Inter", sans-serif;
+  position: absolute;
+  left: 112px;
+  top: 445px;
+  width: 378px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-9071 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-4 {
+  background: #f9b530;
+  border-radius: 10px;
+  width: 104px;
+  height: 40px;
+  position: absolute;
+  left: 70px;
+  top: 536px;
+}
+.frame-5 {
+  display: flex;
+  flex-direction: row;
+  gap: 6px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  height: 15.64px;
+  position: absolute;
+  left: calc(50% - 558px);
+  top: calc(50% - -132px);
+}
+.resume {
+  color: #ffffff;
+  text-align: center;
+  font: 600 12px "Inter", sans-serif;
+  position: relative;
+  width: 57.78px;
+  height: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame {
+  flex-shrink: 0;
+  position: relative;
+  transform: translate(0px, -5.72px);
+  overflow: visible;
+}
+.follow-me {
+  color: #000000;
+  text-align: center;
+  font: 600 12px "Inter", sans-serif;
+  position: absolute;
+  left: 69px;
+  top: 684px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+.scroll-down {
+  color: #000000;
+  text-align: left;
+  font: 300 8px "Inter", sans-serif;
+  position: absolute;
+  left: 1200px;
+  top: 743px;
+  transform-origin: 0 0;
+  transform: rotate(-90deg) scale(1, 1);
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.ornament-57 {
+  position: absolute;
+  left: 946px;
+  top: 154px;
+  overflow: visible;
+}
+.ornament-58 {
+  position: absolute;
+  left: 1059px;
+  top: 194px;
+  overflow: visible;
+}
+.ornament-59 {
+  position: absolute;
+  left: 1009px;
+  top: 235px;
+  overflow: visible;
+}
+.group-9070-2 {
+  width: 445px;
+  height: 495px;
+  position: absolute;
+  left: 649px;
+  top: 265px;
+}
+.mac-book-air-17 {
+  background: #f9b530;
+  padding: 8px;
+  width: 1280px;
+  height: 832px;
+  position: absolute;
+  left: calc(50% - 640px);
+  top: 832px;
+  overflow: hidden;
+}
+.group-9083-1 {
+  width: 395px;
+  height: 389px;
+  position: absolute;
+  left: 254px;
+  top: 224px;
+}
+.vector-21 {
+  position: absolute;
+  left: 294px;
+  top: 208px;
+  overflow: visible;
+}
+.ornament-21 {
+  position: absolute;
+  left: 235px;
+  top: 324px;
+  transform: translate(-2px, -14px);
+  overflow: visible;
+}
+.ornament-222 {
+  position: absolute;
+  left: 561px;
+  top: 381.02px;
+  transform: translate(1.9px, -52.45px);
+  overflow: visible;
+}
+.ornament-75 {
+  position: absolute;
+  left: 298px;
+  top: 82.02px;
+  transform: translate(1.9px, -52.45px);
+  overflow: visible;
+}
+.ornament-76 {
+  position: absolute;
+  left: 165.1px;
+  top: 668.92px;
+  transform: translate(-10.54px, 8.54px);
+  overflow: visible;
+}
+.ornament-23 {
+  position: absolute;
+  left: 303.68px;
+  top: 552px;
+  transform: translate(-2.53px, -0.49px);
+  overflow: visible;
+}
+.ornament-74 {
+  position: absolute;
+  left: 1212.59px;
+  top: 184px;
+  transform: translate(-17.23px, -0.63px);
+  overflow: visible;
+}
+.group-9073 {
+  position: absolute;
+  inset: 0;
+}
+.rahmat-fathan-hidayat2 {
+  color: #8873ef;
+  text-align: left;
+  font: 600 48px "Inter", sans-serif;
+  position: absolute;
+  left: 715px;
+  top: 253px;
+  width: 440px;
+  height: 71px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.group-9074 {
+  position: absolute;
+  inset: 0;
+}
+.saya-seorang-web-developer-dan-ux-designer-yang-tekun-dan-antusias-dalam-mengikuti-perkembangan-teknologi-terkini-dengan-keahlian-dalam-pengembangan-web-dan-desain-pengalaman-pengguna-rahmat-menciptakan-pengalaman-online-yang-menarik-dan-intuitif-bagi-pengguna-dengan-dedikasi-dalam-mempelajari-tren-industri-dan-teknologi-terbaru-ia-selalu-siap-memberikan-solusi-inovatif-dalam-pekerjaannya {
+  color: #ffffff;
+  text-align: left;
+  font: 400 12px "Inter", sans-serif;
+  position: absolute;
+  left: 770px;
+  top: 362px;
+  width: 334px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.vector-20 {
+  position: absolute;
+  left: 717px;
+  top: 371px;
+  overflow: visible;
+}
+.ornament-73 {
+  position: absolute;
+  left: 1113px;
+  top: 624px;
+  overflow: visible;
+}
+.ornament-45 {
+  position: absolute;
+  left: 1033px;
+  top: 150px;
+  overflow: visible;
+}
+.ornament-46 {
+  position: absolute;
+  left: 761px;
+  top: 678px;
+  transform: translate(10.19px, -13.14px);
+  overflow: visible;
+}
+.ornament-47 {
+  position: absolute;
+  left: 588px;
+  top: 128px;
+  overflow: visible;
+}
+#group-9084 {
+  position: absolute;
+  inset: 0;
+}
+.frame-6 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  position: absolute;
+  left: 61px;
+  top: calc(50% - 222px);
+}
+.frame-1 {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.years-of-experience {
+  color: #000000;
+  text-align: right;
+  font: 500 16px "Poppins", sans-serif;
+  position: relative;
+}
+._4 {
+  color: #ffffff;
+  text-align: left;
+  font: 600 64px "Poppins", sans-serif;
+  position: relative;
+}
+.frame-22 {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.complete-project {
+  color: #000000;
+  text-align: right;
+  font: 500 16px "Poppins", sans-serif;
+  position: relative;
+}
+._150 {
+  color: #ffffff;
+  text-align: left;
+  font: 600 64px "Poppins", sans-serif;
+  position: relative;
+}
+.frame-3 {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.client {
+  color: #000000;
+  text-align: right;
+  font: 500 16px "Poppins", sans-serif;
+  position: relative;
+}
+._450 {
+  color: #ffffff;
+  text-align: left;
+  font: 600 64px "Poppins", sans-serif;
+  position: relative;
+}
+.vector-22 {
+  position: absolute;
+  left: 241.5px;
+  top: calc(50% - 204px);
+  overflow: visible;
+}
+.mac-book-air-2 {
+  background: #ffffff;
+  padding: 8px;
+  width: 1280px;
+  height: 832px;
+  position: absolute;
+  left: calc(50% - 640px);
+  top: 1664px;
+  overflow: hidden;
+}
+.ornament-1 {
+  position: absolute;
+  left: 70px;
+  top: 223px;
+  overflow: visible;
+}
+.group-8941 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-2049 {
+  background: #e9f8f5;
+  border-style: solid;
+  border-color: transparent;
+  border-width: 1px;
+  width: 284.4px;
+  height: 440px;
+  position: absolute;
+  left: 187px;
+  top: 280px;
+}
+.mask-group {
+  width: 284.4px;
+  height: 440px;
+  position: static;
+}
+.rectangle-2050 {
+  background: #e9f8f5;
+  border-style: solid;
+  border-color: transparent;
+  border-width: 5px;
+  width: 284.4px;
+  height: 440px;
+  position: absolute;
+  left: 187px;
+  top: 280px;
+}
+.app-landing-page-3 {
+  border-style: solid;
+  border-color: transparent;
+  border-width: 5px;
+  width: 284.4px;
+  height: 1489.73px;
+  position: absolute;
+  left: 187px;
+  top: 280px;
+}
+.group-8940 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-2054 {
+  background: #e8eaf4;
+  border-style: solid;
+  border-color: transparent;
+  border-width: 1px;
+  width: 284.4px;
+  height: 353.93px;
+  position: absolute;
+  left: 497.66px;
+  top: 280px;
+}
+.mask-group2 {
+  width: 284.4px;
+  height: 353.93px;
+  position: static;
+}
+.rectangle-2055 {
+  background: #e8eaf4;
+  border-style: solid;
+  border-color: transparent;
+  border-width: 5px;
+  width: 284.4px;
+  height: 353.93px;
+  position: absolute;
+  left: 497.66px;
+  top: 280px;
+}
+.restaurant-landing-page-1 {
+  border-style: solid;
+  border-color: transparent;
+  border-width: 5px;
+  width: 284.4px;
+  height: 883.22px;
+  position: absolute;
+  left: 497.66px;
+  top: 280px;
+}
+.group-8942 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-20542 {
+  background: #fff4e1;
+  border-style: solid;
+  border-color: transparent;
+  border-width: 1px;
+  width: 284.4px;
+  height: 353.93px;
+  position: absolute;
+  left: 808.31px;
+  top: 280px;
+}
+.rectangle-20552 {
+  background: #fff4e1;
+  border-style: solid;
+  border-color: transparent;
+  border-width: 5px;
+  width: 284.4px;
+  height: 353.93px;
+  position: absolute;
+  left: 808.31px;
+  top: 280px;
+}
+.furniture-e-commerce-website-uiux-design-1 {
+  border-style: solid;
+  border-color: transparent;
+  border-width: 5px;
+  width: 285.28px;
+  height: 1081.9px;
+  position: absolute;
+  left: 808.31px;
+  top: 280px;
+}
+.group-8935 {
+  position: absolute;
+  inset: 0;
+}
+.group-8934 {
+  width: 26.25px;
+  height: 24.13px;
+  position: static;
+}
+.rectangle-2056 {
+  border-radius: 2px;
+  border-style: solid;
+  border-color: #222222;
+  border-width: 3px;
+  width: 26.25px;
+  height: 24.13px;
+  position: absolute;
+  left: 497.66px;
+  top: 667.71px;
+}
+.rectangle-2057 {
+  background: #f9b633;
+  border-radius: 2px;
+  width: 12.25px;
+  height: 11.26px;
+  position: absolute;
+  left: 504.66px;
+  top: 674.15px;
+}
+.rectangle-20572 {
+  background: #222222;
+  border-radius: 2px;
+  width: 12.25px;
+  height: 11.26px;
+  position: absolute;
+  left: 544.91px;
+  top: 674.15px;
+}
+.rectangle-2058 {
+  background: #222222;
+  border-radius: 2px;
+  width: 12.25px;
+  height: 11.26px;
+  position: absolute;
+  left: 578.16px;
+  top: 674.15px;
+}
+.group-8954 {
+  position: absolute;
+  inset: 0;
+}
+.arrow-right {
+  position: absolute;
+  left: 787.31px;
+  top: 670.13px;
+  overflow: visible;
+}
+.arrow-right2 {
+  position: absolute;
+  left: 768.93px;
+  top: 670.13px;
+  transform: translate(-27.13px, 0px);
+  overflow: visible;
+}
+.ornament-742 {
+  position: absolute;
+  left: 1174px;
+  top: 744px;
+  overflow: visible;
+}
+.saya-mengembangkan-situs-web-dengan-desain-menarik-dan-fungsionalitas-yang-optimal-saya-fokus-pada-pengalaman-pengguna-yang-mudah-digunakan-dan-intuitif2 {
+  color: #f9b633;
+  text-align: left;
+  font: 400 12px "Inter", sans-serif;
+  position: absolute;
+  left: 313px;
+  top: 219px;
+  width: 378px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.vector-202 {
+  position: absolute;
+  left: 263px;
+  top: 227px;
+  overflow: visible;
+}
+.vector8 {
+  position: absolute;
+  left: 1162.84px;
+  top: 239.87px;
+  transform: translate(-33.72px, -79.05px);
+  overflow: visible;
+}
+.mask-group3 {
+  position: absolute;
+  inset: 0;
+}
+.element-14 {
+  position: absolute;
+  left: 511.17px;
+  top: 113.08px;
+  transform: translate(-80.89px, -43.75px);
+  overflow: visible;
+}
+.latest-project {
+  color: #8873ef;
+  text-align: left;
+  font: 600 48px "Inter", sans-serif;
+  position: absolute;
+  left: 70px;
+  top: 152px;
+  width: 343px;
+  height: 71px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.project2 {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 61px;
+  top: 131px;
+  width: 89px;
+  height: 29px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#mac-book-air-5 {
+  background: #f9b530;
+  padding: 8px;
+  width: 1280px;
+  height: 832px;
+  position: absolute;
+  left: calc(50% - 640px);
+  top: 2496px;
+  overflow: hidden;
+}
+.ornament-223 {
+  position: absolute;
+  left: 880px;
+  top: 659.46px;
+  transform: translate(2.69px, -66.73px);
+  overflow: visible;
+}
+.ornament-212 {
+  position: absolute;
+  left: 193.31px;
+  top: 70px;
+  transform: translate(-13.31px, 6.1px);
+  overflow: visible;
+}
+.frame-9 {
+  display: flex;
+  flex-direction: column;
+  gap: 46px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 263px;
+  top: calc(50% - 280px);
+}
+.group-9075 {
+  flex-shrink: 0;
+  width: 537px;
+  height: 120px;
+  position: static;
+}
+.group-90732 {
+  width: 537px;
+  height: 71px;
+  position: static;
+}
+.let-s-discuss-your-project {
+  text-align: left;
+  font: 600 48px "Inter", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 49px;
+  width: 537px;
+  height: 71px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.let-s-discuss-your-project-span {
+  color: #000000;
+  font: 600 48px "Inter", sans-serif;
+}
+.let-s-discuss-your-project-span2 {
+  color: #8873ef;
+  font: 600 48px "Inter", sans-serif;
+}
+.frame-7 {
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  flex-shrink: 0;
+  width: 706px;
+  position: relative;
+}
+.group-9057 {
+  flex-shrink: 0;
+  width: 340px;
+  height: 56px;
+  position: static;
+}
+.card {
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  width: 340px;
+  height: 56px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  box-shadow: 0px 30px 116px -16px rgba(211, 211, 211, 0.2);
+}
+.full-name {
+  color: #000000;
+  text-align: left;
+  font: 400 16px/150% "Inter", sans-serif;
+  position: absolute;
+  left: 24px;
+  top: 16px;
+}
+.group-9058 {
+  flex-shrink: 0;
+  width: 340px;
+  height: 56px;
+  position: static;
+}
+.card2 {
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  width: 340px;
+  height: 56px;
+  position: absolute;
+  left: 364px;
+  top: 0px;
+  box-shadow: 0px 30px 116px -16px rgba(211, 211, 211, 0.2);
+}
+.your-email {
+  color: #000000;
+  text-align: left;
+  font: 400 16px/150% "Inter", sans-serif;
+  position: absolute;
+  left: 388px;
+  top: 16px;
+}
+.group-9059 {
+  flex-shrink: 0;
+  width: 340px;
+  height: 56px;
+  position: static;
+}
+.card3 {
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  width: 340px;
+  height: 56px;
+  position: absolute;
+  left: 0px;
+  top: 80px;
+  box-shadow: 0px 30px 116px -16px rgba(211, 211, 211, 0.2);
+}
+.phone-number {
+  color: #000000;
+  text-align: left;
+  font: 400 16px/150% "Inter", sans-serif;
+  position: absolute;
+  left: 24px;
+  top: 96px;
+}
+.group-9060 {
+  flex-shrink: 0;
+  width: 340px;
+  height: 56px;
+  position: static;
+}
+.card4 {
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  width: 340px;
+  height: 56px;
+  position: absolute;
+  left: 364px;
+  top: 80px;
+  box-shadow: 0px 30px 116px -16px rgba(211, 211, 211, 0.2);
+}
+.budget {
+  color: #000000;
+  text-align: left;
+  font: 400 16px/150% "Inter", sans-serif;
+  position: absolute;
+  left: 388px;
+  top: 96px;
+}
+.group-9061 {
+  flex-shrink: 0;
+  width: 706px;
+  height: 170px;
+  position: static;
+}
+.card5 {
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  width: 706px;
+  height: 170px;
+  position: absolute;
+  left: 0px;
+  top: 160px;
+  box-shadow: 0px 30px 116px -16px rgba(211, 211, 211, 0.2);
+}
+.message {
+  color: #000000;
+  text-align: left;
+  font: 400 16px/150% "Inter", sans-serif;
+  position: absolute;
+  left: 24px;
+  top: 176px;
+}
+.group-90712 {
+  flex-shrink: 0;
+  width: 104px;
+  height: 40px;
+  position: static;
+}
+.rectangle-42 {
+  background: #8873ef;
+  border-radius: 10px;
+  width: 104px;
+  height: 40px;
+  position: absolute;
+  left: 0px;
+  top: 354px;
+}
+.frame-52 {
+  display: flex;
+  flex-direction: row;
+  gap: 6px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  height: 15.64px;
+  position: absolute;
+  left: calc(50% - 341px);
+  top: calc(50% - -169px);
+}
+.submit {
+  color: #ffffff;
+  text-align: center;
+  font: 600 12px "Inter", sans-serif;
+  position: relative;
+  width: 57.78px;
+  height: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame2 {
+  flex-shrink: 0;
+  position: relative;
+  transform: translate(0px, -5.72px);
+  overflow: visible;
+}
+.ornament-11 {
+  position: absolute;
+  left: 1145px;
+  top: 660px;
+  overflow: visible;
+}
+.ornament-232 {
+  position: absolute;
+  left: 987.44px;
+  top: 177.03px;
+  transform: translate(-2.3px, -1.22px);
+  overflow: visible;
+}
+.ornament-452 {
+  position: absolute;
+  left: 143px;
+  top: 382px;
+  overflow: visible;
+}
+.ornament-462 {
+  position: absolute;
+  left: 725px;
+  top: 736.28px;
+  transform: translate(10.19px, -13.14px);
+  overflow: visible;
+}
+.ornament-472 {
+  position: absolute;
+  left: 747px;
+  top: 56px;
+  overflow: visible;
+}
+.mac-book-air-7 {
+  background: #ffffff;
+  padding: 8px;
+  width: 1280px;
+  height: 184px;
+  position: absolute;
+  left: calc(50% - 640px);
+  top: 3328px;
+  overflow: hidden;
+}
+.submit-message {
+  color: #ffffff;
+  text-align: center;
+  font: 500 16px/150% "Inter", sans-serif;
+  position: absolute;
+  left: 817px;
+  top: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-8 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 78px);
+  top: 48px;
+}
+.follow-me2 {
+  color: #000000;
+  text-align: center;
+  font: 600 12px "Inter", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-23 {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.instagram3 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.linkedin3 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.github2 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.tumblr3 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.copyright-2023-fathan-hidayat {
+  color: #f9b530;
+  text-align: left;
+  font: 600 18px "Poppins", sans-serif;
+  position: absolute;
+  left: calc(50% - 210px);
+  top: calc(50% - -20px);
+  width: 420px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-4{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  gap: 3px;
+}
+.rectangle-4 svg{
+  margin-bottom: -12px;
+  /* border: solid 1px; */
+}
+.rectangle-4 p{
+  color: white;
+  font: 10px;
+}
+.rectangle-42{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 3px;
+}
+.rectangle-42:hover{
+  background-color: #f9b530;
+  border: solid 1px;
+}
+.rectangle-42 svg{
+  margin-bottom: -8px;
+  /* border: solid 1px; */
+}
+.follow-me2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.follow-me2 .sosmed{
+  display: flex;
+  gap: 20px;
+}
+.copyright-2023-fathan-hidayat{
+  padding: 10px 10px;
+}
+.rectangle-2049{
+  background-image: url("app-landing-page-3.png");
+}
+.rectangle-2054{
+  background-image: url("restaurant-landing-page-1.png");
+}
+.rectangle-20542{
+  background-image: url("furniture-e-commerce-website-uiux-design-1.png");
+}
+.dayat,
+.dayat * {
+  box-sizing: border-box;
+}
+.dayat {
+  text-align: left;
+  font: 900 20px "Inter", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.dayat-span {
+  color: #000000;
+  font: 900 20px "Inter", sans-serif;
+}
+.dayat-span2 {
+  color: #f9b530;
+  font: 900 20px "Inter", sans-serif;
+}
+.dayat-span3 {
+  color: #000000;
+  font: 900 20px "Inter", sans-serif;
+}
+/* global */
+
